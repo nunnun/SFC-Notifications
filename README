@@ -1,2 +1,20 @@
 http://blog.justoneplanet.info/presentation/eew/#31
 https://gist.github.com/1159188
+
+
+通知
+- TwitterのアカウントにDMもしくは@を飛ばしてもらう
+- 飛んできたDMをみんなにPushする
+- RSS (予定)
+
+ユーザ設定でDMか@か選べる
+
+Chrome Storeにつくろう。
+READMEとか
+
+実装
+- WebSocket + Notification -> 緊急地震速報を参考にする！
+- TwitterのUserStream -> Twitter4jsとか？をつかう
+- 1枚ぐらいのサイト
+- DM受け取れるアカウントをGoogle Docsのフォーム
+
